@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@500&display=swap');
+
+body{
+  background-color: #131722 !important;
+  color: white !important;
+  font-family: 'Bebas Neue', cursive !important; 
+  font-family: 'Inter', sans-serif !important;
+}
+input{
+  background-color:transparent !important;
+  color: white !important;
+}
+
+.upper ,.Lower{
+  width: 25%;
+  margin-bottom: 30px;
+  height: 1px;
+  background-color: gray;
+
+}
+.Lower{
+  width: 90% ; 
+}
+a{ 
+  text-decoration: none !important;
+}
+
+.movies , .movies:hover{
+  color: white;
+}
+
+span{
+  cursor: pointer;
+}
